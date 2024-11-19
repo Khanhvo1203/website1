@@ -19,7 +19,7 @@ export default function Convinced() {
               />
               <img
                 className="w-[496px] h-[470px] object-cover rounded-lg absolute right-0 top-0"
-                src="/toanhavnta.png"
+                src="/toanha1.png"
                 alt=""
               />
             </div>
