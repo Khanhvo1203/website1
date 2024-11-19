@@ -18,7 +18,7 @@ export default function Home() {
       <Container fluid className="p-0">
         <div className="cut-bac">
           <Image
-            src="/public/Trangtrungtam.png"
+            src="/Trangtrungtam.png"
             width={1865} /* Chiều rộng cụ thể */
             height={1080} /* Chiều cao cụ thể */
             objectFit="cover" /* Giữ tỷ lệ của ảnh */
